@@ -1,11 +1,12 @@
-﻿using System.Collections;
+//2017.11.18 HYUN YEA SEUL 
+//move background
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class BackgroundScroller : MonoBehaviour {
 
-    //2017.11.18 HYUN YEA SEUL 
-    //move background
+
 
     public List<GameObject> background;
     public PlayerController Player;
